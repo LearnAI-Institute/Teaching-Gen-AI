@@ -12,8 +12,15 @@ This file serves as a central hub for external tools, documentation, and noteboo
 
 ## 📝 Class Notes
 * **[notes/](./notes/):** This folder contains detailed notes for each session.
-* **[class1.md](./notes/class1.md):** Project Setup and API Configuration.
-  
+* **[Class 1 - Intro](./notes/clsss_01_intro.md):** Introduction to Generative AI.
+* **[Class 2 - Setup](./notes/class_02_setup.md):** Project Setup and API Configuration.
+* **[Class 3 - LangChain Intro](./notes/class_03_langchain_intro.md):** Introduction to LangChain and connecting to LLMs.
+* **[Class 4 - Dynamic Prompts & LCEL](./notes/class_04_lcel.md):** Dynamic Prompt Templates and LangChain Expression Language (LCEL).
+
+## 📓 Practice Notebooks
+* **[Practice/notebooks/1_basic_langchain_with_openai.ipynb](./Practice/notebooks/1_basic_langchain_with_openai.ipynb):** Basic LangChain integration with OpenAI.
+* **[Practice/notebooks/2_prompt_cains.ipynb](./Practice/notebooks/2_prompt_cains.ipynb):** Prompt chains practice.
+
 ## 📚 Official Documentation
 * *Pending: Add links to LangChain, OpenAI, or Google AI documentation here.*
 
@@ -21,4 +28,4 @@ This file serves as a central hub for external tools, documentation, and noteboo
 * *Future references will be appended here.*
 
 ---
-*Last updated: 2026*
+*Last updated: 2026-03-28*
