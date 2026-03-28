@@ -16,10 +16,14 @@ This file serves as a central hub for external tools, documentation, and noteboo
 * **[Class 2 - Setup](./notes/class_02_setup.md):** Project Setup and API Configuration.
 * **[Class 3 - LangChain Intro](./notes/class_03_langchain_intro.md):** Introduction to LangChain and connecting to LLMs.
 * **[Class 4 - Dynamic Prompts & LCEL](./notes/class_04_lcel.md):** Dynamic Prompt Templates and LangChain Expression Language (LCEL).
+* **[Class 5 - First Web App](./notes/class_05_first_app.md):** Building AskBuddy — a conversational chatbot with Streamlit, session state, and Google Gemini.
 
 ## 📓 Practice Notebooks
 * **[Practice/notebooks/1_basic_langchain_with_openai.ipynb](./Practice/notebooks/1_basic_langchain_with_openai.ipynb):** Basic LangChain integration with OpenAI.
 * **[Practice/notebooks/2_prompt_cains.ipynb](./Practice/notebooks/2_prompt_cains.ipynb):** Prompt chains practice.
+
+## 🤖 Practice Apps
+* **[Practice/apps/1_qna_bot.py](./Practice/apps/1_qna_bot.py):** AskBuddy — conversational QnA chatbot built with Streamlit and Google Gemini (Class 5).
 
 ## 📚 Official Documentation
 * *Pending: Add links to LangChain, OpenAI, or Google AI documentation here.*
